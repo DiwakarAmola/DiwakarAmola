@@ -16,7 +16,7 @@ I’m currently learning/ working on:
 
 •	OS: Windows and Linux
 
-•	Theory & Concepts: Virtualization, Cloud Computing, IOT & Edge Computing, AR, VR, AI, Metaverse, and Blockchain
+•	Theory & Concepts: Virtualization, Cloud Computing, IoT & Edge Computing, AR, VR, AI, Metaverse, and Blockchain
 
 I can be reached at itamoladiwakar@gmail.com
 
