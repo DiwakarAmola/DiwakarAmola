@@ -4,7 +4,7 @@ I’m Diwakar Amola,
 
 I’m interested in building Desktop, Web and Mobile applications.
 
-I’m currently learning/ working on ...
+I’m currently learning/ working on:
 
 •	Web: HTML, CSS, JavaScript, NodeJS, ExpressJS, NextJS, ReactJS, PHP, ASP.Net, etc.
 
