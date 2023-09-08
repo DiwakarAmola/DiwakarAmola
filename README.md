@@ -1,6 +1,6 @@
 Hi!
 
-I’m Diwakar Amola, 
+I’m Diwakar Amola, a postgraduate in computer applications (MCA) from IGNOU.
 
 I’m interested in building Desktop, Web and Mobile applications.
 
