@@ -6,7 +6,7 @@ I’m interested in building Desktop, Web and Mobile applications.
 
 I’m currently learning/ working on:
 
-•	Web: HTML, CSS, JavaScript, NodeJS, ExpressJS, NextJS, ReactJS, PHP, ASP.Net, etc.
+•	Web: HTML, CSS, JavaScript, NodeJS, ExpressJS, ReactJS, NextJS, PHP, ASP.Net, etc.
 
 •	Databases: RDBMS, MS SQL Server, PostgreSQL, MySQL, MongoDB, etc.
 
