@@ -12,7 +12,7 @@ I’m currently learning/ working on:
 
 •	Mobile: Android Studio with Java
 
-•	Languages: VBA, C with Data Structure, C++, C#, Python, etc.
+•	Languages: VBA, C with Data Structure, C++, C#, Java, Python, etc.
 
 •	OS: Windows and Linux
 
